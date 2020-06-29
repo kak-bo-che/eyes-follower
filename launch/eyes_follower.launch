@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="eyes-follower" name="follower" type="eyes_follower_node" output="screen">
+  </node>
+</launch>
